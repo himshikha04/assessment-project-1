@@ -2,7 +2,7 @@ body{
     color: purple;
     font-family: arial;
     font-size: 25px; 
-    background-image: url("imagebg.jpg");
+    background-image: url("../pictures/1004.jpg");
     background-attachment: scroll;
     background-repeat: no-repeat;
     background-size: cover;
@@ -10,32 +10,6 @@ body{
 }
 h1{
     text-align: center;
-}
-.container1{
-    display: flex;
-    padding: 20px 100px;
-    padding-bottom: 1px;
-}
-.container2{
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 100px;
-    padding-right: 100px;
-    display: flex;
-}
-.container3{
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 100px;
-    padding-right: 100px;
-    display: flex;
-}
-.container4{
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 100px;
-    padding-right: 100px;
-    display: flex;
 }
 /* The sidebar menu */
 .sidenav {
@@ -75,46 +49,13 @@ h1{
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
-.box1{
-  padding-left: 10px;
+.container1{
+    display: flex;
+    padding: 20px 130px;
+    padding-bottom: 1px;
 }
 .box2{
-  padding-left: 10px;
+    padding-left: 40px;
 }
-
-.box3{
-  padding-left: 10px;
-}
-
-.box4{
-  padding-left: 10px;
-}
-
-.box5{
-  padding-left: 10px;
-}
-.box6{
-  padding-left: 10px;
-}
-.box7{
-  padding-left: 10px;
-}
-.box8{
-  padding-left: 10px;
-}
-.box9{
-  padding-left: 10px;
-}
-.box10{
-  padding-left: 10px;
-}
-.box11{
-  padding-left: 10px;
-}
-.box12{
-  padding-left: 10px;
-}
-
-
 
 
